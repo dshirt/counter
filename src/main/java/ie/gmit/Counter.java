@@ -9,7 +9,10 @@ public class Counter {
     }
 
     public Counter(int counter) {
-        this.counter = counter;
+        if(counter <=0)
+            throw new IllegalArgumentException("Must be greater than 0");
+        else
+            this.counter = counter;
     }
 
 

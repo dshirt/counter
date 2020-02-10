@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CounterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="431">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
@@ -50,13 +50,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="323">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding>
                 <element signature="e#96#97#0" expanded="true" />
                 <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
                 <element signature="e#228#229#0" expanded="true" />
                 <element signature="e#258#259#0" expanded="true" />
                 <element signature="e#301#302#0" expanded="true" />
@@ -86,8 +84,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/CounterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CounterTest.java" />
       </list>
     </option>
   </component>
@@ -237,7 +235,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581325489658</updated>
-      <workItem from="1581325500504" duration="4040000" />
+      <workItem from="1581325500504" duration="4539000" />
     </task>
     <servers />
   </component>
@@ -253,7 +251,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4040000" />
+    <option name="totallyTimeSpent" value="4539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,13 +317,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding>
             <element signature="e#96#97#0" expanded="true" />
             <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#301#302#0" expanded="true" />
@@ -340,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CounterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="431">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />

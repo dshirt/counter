@@ -35,5 +35,11 @@ public class CounterTest {
 
     }
 
+    @Test
+    void testSingleArgConstructor(){
+        assertThrows(IllegalArgumentException.class, ()->{new Counter(-1);});
+    }
+
+
 
 }
