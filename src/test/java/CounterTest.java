@@ -27,5 +27,13 @@ public class CounterTest {
 
     }
 
+    @Test
+    void testDecrementCounter(){
+        myCounter = new Counter();
+        myCounter.decrementCount();
+        assertEquals(-1, myCounter.getCounter() );
+
+    }
+
 
 }

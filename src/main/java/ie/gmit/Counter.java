@@ -25,6 +25,10 @@ public class Counter {
         this.counter++;
     }
 
+    public void decrementCount(){
+        this.counter--;
+    }
+
 
 
 }
