@@ -21,6 +21,10 @@ public class Counter {
         this.counter = counter;
     }
 
+    public void incrementCount(){
+        this.counter++;
+    }
+
 
 
 }

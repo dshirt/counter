@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56a20137-26cf-4d78-a73d-b3433dd24abe" name="Default Changelist" comment="first commit" />
+    <list default="true" id="56a20137-26cf-4d78-a73d-b3433dd24abe" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CounterTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CounterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="408">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
@@ -47,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="510">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#96#97#0" expanded="true" />
                 <element signature="e#122#123#0" expanded="true" />
@@ -58,6 +61,8 @@
                 <element signature="e#258#259#0" expanded="true" />
                 <element signature="e#301#302#0" expanded="true" />
                 <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +84,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" />
         <option value="$PROJECT_DIR$/src/test/java/CounterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" />
       </list>
     </option>
   </component>
@@ -182,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android JUnit.CounterTest.testIncrementCounter">
     <configuration name="CounterTest.isCounterSetToZero" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
       <module name="counter" />
       <option name="PACKAGE_NAME" value="" />
@@ -193,8 +198,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CounterTest.testIncrementCounter" type="AndroidJUnit" temporary="true" nameIsGenerated="true">
+      <module name="counter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterTest" />
+      <option name="METHOD_NAME" value="testIncrementCounter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.CounterTest.testIncrementCounter" />
         <item itemvalue="Android JUnit.CounterTest.isCounterSetToZero" />
       </list>
     </recent_temporary>
@@ -209,7 +225,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581325489658</updated>
-      <workItem from="1581325500504" duration="3081000" />
+      <workItem from="1581325500504" duration="3792000" />
     </task>
     <servers />
   </component>
@@ -219,7 +235,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3081000" />
+    <option name="totallyTimeSpent" value="3792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -232,13 +248,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -248,7 +265,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -284,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#96#97#0" expanded="true" />
             <element signature="e#122#123#0" expanded="true" />
@@ -295,14 +312,16 @@
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#301#302#0" expanded="true" />
             <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CounterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        <state relative-caret-position="408">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />

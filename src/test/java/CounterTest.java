@@ -14,9 +14,17 @@ public class CounterTest {
 
 
     @Test
-    void isCounterSetToZero(){
+    void testIsCounterSetToZero(){
         myCounter = new Counter();
         assertEquals(0, myCounter.getCounter() );
+    }
+
+    @Test
+    void testIncrementCounter(){
+        myCounter = new Counter();
+        myCounter.incrementCount();
+        assertEquals(1, myCounter.getCounter() );
+
     }
 
 
