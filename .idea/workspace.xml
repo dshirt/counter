@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56a20137-26cf-4d78-a73d-b3433dd24abe" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/gmit/Counter.java" afterDir="false" />
-    </list>
+    <list default="true" id="56a20137-26cf-4d78-a73d-b3433dd24abe" name="Default Changelist" comment="first commit" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -215,7 +209,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581325489658</updated>
-      <workItem from="1581325500504" duration="2822000" />
+      <workItem from="1581325500504" duration="3081000" />
     </task>
     <servers />
   </component>
@@ -225,7 +219,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2822000" />
+    <option name="totallyTimeSpent" value="3081000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
